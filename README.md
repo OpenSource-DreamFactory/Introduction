@@ -1,7 +1,7 @@
  
 ## 介绍
-开源梦工厂项目旨在建立一个开源项目支付网关，激励开发者持续为开源项目贡献代码和时间，创建开源项目动态NFT与开源项目和贡献者的活动紧密关联，通过DAO基金池为开源项目注入资金。
-The Open Source Dream Factory project aims to establish an open source project payment gateway, incentivizing developers to continue contributing code and time to open source projects. It creates dynamic NFTs associated with open source projects and contributors' activities, injecting funds into open source projects through a DAO fund pool.
+开源梦工厂旨在建立一个从Web3.0到开源世界的门户，激励开发者持续为开源项目贡献代码和时间。我们在Polkadot上开发了一个动态NFT协议，它可以创建了与开源项目和贡献者活动相关联的动态NFT，参与者将竞争开发最有前途的项目，利用动态NFT和DAO机制来支持开源创新。
+The Open Source Dream Factory aims to establish a gateway from Web3.0 to the opensource world, incentivizing developers to continue contributing code and time to open source projects. We have developed a dynamic NFT protocol on Polkadot，It creates dynamic NFTs associated with open source projects and contributors' activities, Participants will compete to develop the most promising projects that can leverage the dynamic NFT and DAO mechanisms to support open source innovation.
 
 ## 目标
 1. 鼓励和激励开源开发者对项目的贡献
